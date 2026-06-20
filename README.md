@@ -1,2 +1,0 @@
-# TicketBookingSystemMERN
-Ticket Booking System
